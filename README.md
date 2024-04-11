@@ -25,7 +25,7 @@ Studying ASP.Net core and Next.js
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/THAWITCHAI/Next.js"><img src="https://github-readme-stats.vercel.app/api?username=THAWITCHAI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="THAWITCHAI's GitHub stats" /></a>
+<a href="http://www.github.com/THAWITCHAI/"><img src="https://github-readme-stats.vercel.app/api?username=THAWITCHAI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="THAWITCHAI's GitHub stats" /></a>
 
 <a href="http://www.github.com/THAWITCHAI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=THAWITCHAI&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

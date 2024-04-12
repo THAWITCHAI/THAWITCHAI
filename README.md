@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Studying at Ubon Ratchathani Rajabhat University Faculty of Computer Science
 ----------------------------------------------------------------------------
 
-Studying ASP.Net core and Next.js
+Studying ASP.Net core and Next.js Now
 
 * 🌍  I'm based in Thailand ,Ubon City
 * ✉️  You can contact me at [thawitchai285@gmail.com](mailto:thawitchai285@gmail.com)

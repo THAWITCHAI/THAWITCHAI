@@ -7,23 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/thawitchai" target="blank"><img src="https://img.shields.io/twitter/follow/thawitchai?logo=twitter&style=for-the-badge" alt="thawitchai" /></a> </p>
 
-- 🔭 I’m currently working on [-](-)
-
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **react, Next.js**
 
 - 📫 How to reach me **thawitchai285@gmail.com**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **-**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
